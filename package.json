@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "emotion/styled",
     "@fontsource/space-grotesk": "^4.5.10",
+    "@mui/material": "^5.16.5",
     "@react-three/fiber": "^8.10.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

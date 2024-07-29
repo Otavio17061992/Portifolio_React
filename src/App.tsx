@@ -6,6 +6,7 @@ import light from "./styles/themes/light";
 import dark from "./styles/themes/dark";
 
 import GlobalStyle from "./styles/global";
+import Header from "./components/Header";
 import Presentation from "./components/Presentation";
 import About from "./components/About";
 import Technologies from "./components/Technologies";
@@ -22,6 +23,7 @@ function App() {
 
   return (
     <ThemeProvider theme={theme}>
+      <Header />
       <Presentation toggleTheme={toggleTheme} />
       <div className="App">
         <GlobalStyle />
