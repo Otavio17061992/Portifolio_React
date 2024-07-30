@@ -11,7 +11,7 @@ const Footer: React.FC<Props> = ({ toggleTheme }) => {
 
   return (
     <ContainerFooter>
-      <Text>© 2023 | João Otavio</Text>
+      <Text>© 2024 | João Otavio</Text>
     </ContainerFooter>
   );
 };

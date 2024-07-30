@@ -21,8 +21,8 @@ const ProjectsData = [
     description:
       "Projeto desenvolvido por mim e pela minha equipe em 2021 para minha escola como TCC e estágio, com principal função dos orientadores receberem, organizarem as ocorrências dos alunos da escola.",
     tool: "React · Firebase",
-    github: "https://github.com/ogabrielbarbosa/TCC-Orientador",
-    link: "https://tccorientador.gabarbosa.com/",
+    github: "",
+    link: "",
   },
   {
     id: 3,
@@ -31,8 +31,8 @@ const ProjectsData = [
     description:
       "Pokédex para procurar pokémons pelo nome ou número, mostrando e filtrando dados referente ao pokémon selecionado.",
     tool: "React · TypeScript · PokeAPI",
-    github: "https://github.com/ogabrielbarbosa/pokedex",
-    link: "https://pokedex.gabarbosa.com/",
+    github: "",
+    link: "",
   },
   {
     id: 4,
@@ -41,8 +41,8 @@ const ProjectsData = [
     description:
       "Plataforma de filmes em exibição, com acesso a informações do filme, como tempo de duração, gêneros, sinopse, entre outras coisas.",
     tool: "React · TheMovieDB",
-    github: "https://github.com/ogabrielbarbosa/flix",
-    link: "https://flix.gabarbosa.com/",
+    github: "",
+    link: "",
   },
 ];
 
