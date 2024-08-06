@@ -62,7 +62,7 @@ const Contact: React.FC<Props> = ({ toggleTheme }) => {
 
         <BoxContact
           target="blank"
-          href="https://api.whatsapp.com/send?phone=5512996859020"
+          href="https://api.whatsapp.com/send?phone=5511954705911"
         >
           <Icon
             width="31"
