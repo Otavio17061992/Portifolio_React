@@ -5,6 +5,11 @@ export const Container = styled.div`
   display: flex;
   background-color: #1a202c;
   box-shadow: 0 0 20px 3px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999; /* Defina um valor alto para garantir que fique por cima de outros elementos */
 
   > svg {
     color: white;

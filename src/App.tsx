@@ -6,7 +6,7 @@ import light from "./styles/themes/light";
 import dark from "./styles/themes/dark";
 
 import GlobalStyle from "./styles/global";
-import Header from "./components/Header";
+import Header from "../src/components/Header/Header";
 import Presentation from "./components/Presentation";
 import About from "./components/About";
 import Technologies from "./components/Technologies";
